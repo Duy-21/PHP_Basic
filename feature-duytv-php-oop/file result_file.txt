@@ -1,0 +1,2 @@
+Check 1 là chuỗi hợp lệ. 
+ Check 2 là chuỗi không hợp lệ và có1câu
